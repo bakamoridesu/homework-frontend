@@ -58,6 +58,7 @@ margin: 10px 0;
 }
 
 .cart-price {
-    width: 50px;
+padding-left: 10px;
+    width: 80px;
 }
 </style>
